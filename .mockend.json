@@ -1,5 +1,5 @@
 {
-  "cars": {
+  "Car": {
     "car_id": {"regexp": "((GJ(0[1-9]|[1-2][0-9]|3[0-8]))|(RJ(0[1-9]|[1-4][0-9]|5[1-2]))|(MH(0[1-9]|[1-4][0-9]|51)))[A-Z]{2}[0-9]{4}"},
     "title": { "loremWords": { "minLength": 5, "maxLength": 20 } },
     "details": {"loremSentences": { "minLength": 100, "maxLength": 200 }}
