@@ -1,7 +1,5 @@
 {
-  "Users": [
-    {
-      "id":0
-    }
-  ]
+  "User": {
+    "title": { "string": {} }
+  }
 }
