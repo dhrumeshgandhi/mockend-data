@@ -1,6 +1,6 @@
 {
   "Car": {
-    "car": {"regexp": "(GJ(0[1-9]|[1-2][0-9])([A-Z]{2})([0-9]{4}))"},
+    "car": {"regexp": "(GJ([0-9][0-9])([A-Z]{2})([0-9]{4}))"},
     "title": { "loremWords": { "minLength": 5, "maxLength": 20 } },
     "details": {"loremSentences": { "minLength": 100, "maxLength": 200 }}
   }
